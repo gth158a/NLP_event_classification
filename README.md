@@ -1,5 +1,5 @@
 # NLP_event_classification
-Final project for Machine Learning and Natural Language Processing classes.
+Natural Language Processing
 
 Part 1: [Introduction](notebooks/DSCI 6003-6004 - Introduction.ipynb)       
 Part 2: [Baseline Models](notebooks/DSCI 6003-6004 - Baseline Models.ipynb)       
